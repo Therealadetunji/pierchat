@@ -1,0 +1,14 @@
+.icons {
+  position: absolute;
+  gap: 2rem;
+  top: 80%;
+}
+
+.icon {
+  font-size: 2.5rem;
+}
+
+.end-call-sidebar {
+  font-size: 2.5rem;
+  color: red;
+}
