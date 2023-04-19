@@ -21,6 +21,7 @@ const VideoChat = () => {
     }
 
     if (mediaType === 'audio') {
+      // eslint-disable-next-line
       console.log('User joined with audio');
     }
   };
